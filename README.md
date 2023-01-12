@@ -1,4 +1,4 @@
-![](https://github.com/Matthewpco/WP-Plugin-API-Posts/blob/main/wp-plugin-restapi.jpg)
+![](https://raw.githubusercontent.com/Matthewpco/WP-Editor-Dark-Theme/main/wp-editor-dark-theme-image.jpg)
 
 # This is a custom WordPress plugin to enable a dark mode for the theme editor and admin area.
 
