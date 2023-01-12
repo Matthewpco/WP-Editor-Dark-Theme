@@ -1,0 +1,86 @@
+#template div .CodeMirror {
+    background-color: #1F1B24;
+    color: #f2e7fe;
+}
+#template .CodeMirror-activeline-background {
+    background-color: #35323a;
+}
+#wpbody {
+    background-color: #1f1b24;
+}
+.CodeMirror-gutters {
+    background-color: #1F1B24;
+}
+#wpcontent {
+    padding-left: 0px;
+}
+.CodeMirror-line::selection, .CodeMirror-line>span::selection, .CodeMirror-line>span>span::selection {
+    background: #bb86f3;
+}
+body, h1, h2, h3, h4, h5, h6 {
+    color: #bb86f3;
+}
+.wrap .CodeMirror .CodeMirror-linenumber {
+    color: #C8FFF4;
+}
+.cm-s-default .cm-comment {
+    color: #c8fff4;
+}
+.cm-s-default .cm-string {
+    color: #bb86fe;
+}
+.cm-s-default .cm-meta, .cm-s-default .cm-qualifier {
+    color: #BB86FC;
+}
+.wp-core-ui select {
+    background-color: #1F1B24;
+    color: #7F39FB;
+}
+#templateside>ul {
+    background-color: #1f1b24;
+}
+.notice, div.error, div.updated {
+    background: #35323a;
+}
+.cm-s-default .cm-builtin {
+    color: #985eff;
+}
+.cm-s-default .cm-tag {
+    color: #dbb2ff;
+}
+.cm-s-default .cm-type, .cm-s-default .cm-variable-3 {
+    color: #dbb2ff;
+}
+.cm-s-default .cm-number {
+    color: #03DAC5;
+}
+.cm-s-default .cm-atom {
+    color: #70efde;
+}
+.cm-s-default .cm-keyword {
+    color: #4664EB;
+}
+.cm-s-default .cm-def {
+    color: #01a299;
+}
+#templateside a {
+    color: #7F39FB;
+}
+#adminmenu, #adminmenuback, #adminmenuwrap {
+    background: #1f1b24;
+}
+#adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu {
+    background: #29252d;
+}
+.cm-s-default .cm-attribute {
+    color: #70efde;
+}
+#template .CodeMirror, #template textarea {
+border: 1px solid #f2e7fe;
+}
+.cm-s-default .cm-variable-2 {
+    color: #01a299;
+}
+#message {
+    display: none;
+}
