@@ -1,14 +1,14 @@
 <?php
 /**
  * @package wp-editor-dark-theme
- * @version 1.0.4
+ * @version 1.0.5
  */
 /*
 Plugin Name: WP Editor Dark Theme
 Plugin URI: https://github.com/Matthewpco/WP-Editor-Dark-Theme
 Description: Changes theme editor styles to a dark mode with better user experience.
 Author: Matthew Payne
-Version: 1.0.4
+Version: 1.0.5
 Author URI: https://wpwebdevelopment.com
 */
 
