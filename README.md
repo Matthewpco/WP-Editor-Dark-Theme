@@ -14,6 +14,8 @@
 
 - CSS
 - PHP
+- Plugin Development
+- Theme Design
 - WordPress
 
   <br>
